@@ -26,14 +26,14 @@
 
     2.5 Generative Models.
 
-##  Projects:
+### 3 Projects:
 
-    1.1 Nano Degree Project: Arbitrary Style Transfer with Style-Attentional Networks.
+    3.1 Nano Degree Project: Arbitrary Style Transfer with Style-Attentional Networks.
 
-    1.2 Projects: City Classification  -- Semantic Edge Detection  -- Image Super Resolution --  Video Background Substitution.
+    3.2 Projects: City Classification  -- Semantic Edge Detection  -- Image Super Resolution --  Video Background Substitution.
 
-    1.3 .
+### 4 Ressources/Books:
+    4.1 Computer Vision and Action Recognition -- Computer Vision and Action Recognition -- Computer Vision: Models, Learning, and Inference.
 
 
-## Bibliography
 
