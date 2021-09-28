@@ -1,6 +1,6 @@
-# Computer Vision Course 
+# Learn computer vision from the scratch
 
-## In this course we will cover the following topics:
+## In this Tutos we will cover the following topics:
 
 ### 1 Classical Methods in Computer Vision
 
@@ -22,11 +22,18 @@
 
     2.3 Object Localization, Detection.
 
-    2.4 Segmentation Revisited: Instance Segmentation.
+    2.4 Instance Segmentation.
 
     2.5 Generative Models.
+
+##  Content:
+
+    1.1 .
+
+    1.2 Interpolation, Affine Transformations. Cumulative Sum and Guided Filtering, Guided Upsampling.
+
+    1.3 Local Features: Edge Detectors, Neighborhood Description.
 
 
 ## Bibliography
 
-https://drive.google.com/open?id=1QchjDgcB4FNF8FQp8DLJeZnHWUZWLGYL
