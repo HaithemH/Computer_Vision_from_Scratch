@@ -1,3 +1,0 @@
-numpy==1.16.2
-configparser==4.0.2
-opencv-python
