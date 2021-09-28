@@ -26,13 +26,13 @@
 
     2.5 Generative Models.
 
-##  Content:
+##  Projects:
 
-    1.1 .
+    1.1 <b>Nano Degree Project</b>: Arbitrary Style Transfer with Style-Attentional Networks.
 
-    1.2 Interpolation, Affine Transformations. Cumulative Sum and Guided Filtering, Guided Upsampling.
+    1.2 <b>Projects</b>: City Classification  -- Semantic Edge Detection  -- Image Super Resolution --  Video Background Substitution.
 
-    1.3 Local Features: Edge Detectors, Neighborhood Description.
+    1.3 .
 
 
 ## Bibliography
