@@ -28,9 +28,9 @@
 
 ##  Projects:
 
-    1.1 <b>Nano Degree Project</b>: Arbitrary Style Transfer with Style-Attentional Networks.
+    1.1 Nano Degree Project: Arbitrary Style Transfer with Style-Attentional Networks.
 
-    1.2 <b>Projects</b>: City Classification  -- Semantic Edge Detection  -- Image Super Resolution --  Video Background Substitution.
+    1.2 Projects: City Classification  -- Semantic Edge Detection  -- Image Super Resolution --  Video Background Substitution.
 
     1.3 .
 
