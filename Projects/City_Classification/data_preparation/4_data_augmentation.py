@@ -18,6 +18,9 @@ import configparser
 from utils import *
 from PIL import Image
 
+
+
+
 def random_rotation(image_array: ndarray):
 	"""
 	Pick a random degree of rotation between 25% on the left and 25% on the right.

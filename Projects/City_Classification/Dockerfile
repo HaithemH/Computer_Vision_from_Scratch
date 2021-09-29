@@ -1,6 +1,6 @@
 FROM python:3.7.3
 
-MAINTAINER Levon Khachatryan <levon.khachatryan.1996.db@gmail.com>
+MAINTAINER Haithem Hermessi <hermessi.haithem@gmail.com>
 
 ENV ROOT=/test
 RUN mkdir -p $ROOT

@@ -47,7 +47,7 @@ Color preserving:
 <b>Operating System</b>
 - ubuntu 16.04 LTS
 
-<b>Software</b>
+<b>Software/Libraries</b>
 - Python 3.6.2
 - NumPy 1.13.1
 - TensorFlow 1.4.0
@@ -56,6 +56,3 @@ Color preserving:
 - CUDA 8.0.61
 - cuDNN 6.0.21
 
-## Contact
-If there's some suggestions you would like to give or if you're just feeling social,
-feel free to [email](mailto:levon.khachatryan.1996.db@gmail.com) me or connect with me on [LinkedIn](https://www.linkedin.com/in/levonkhachatryan/).

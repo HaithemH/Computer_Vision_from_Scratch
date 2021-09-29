@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
+=======
+# Learn computer vision from the scratch
+
+## In this Tutos we will cover the following topics:
+>>>>>>> 286d841a5e3c54e8861f0dff2f04a8e7e85a3724
 
 
 
@@ -109,6 +115,7 @@
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="620">
 
+<<<<<<< HEAD
     <meta property="twitter:site" content="github">
     <meta property="twitter:site:id" content="13334762">
     <meta property="twitter:creator" content="github">
@@ -119,9 +126,22 @@
     <meta property="twitter:image:src" content="https://github.githubassets.com/images/modules/open_graph/github-logo.png">
     <meta property="twitter:image:width" content="1200">
     <meta property="twitter:image:height" content="1200">
+=======
+    2.4 Instance Segmentation.
+>>>>>>> 286d841a5e3c54e8861f0dff2f04a8e7e85a3724
 
 
+### 3 Projects:
 
+    3.1 Nano Degree Project: Arbitrary Style Transfer with Style-Attentional Networks.
+
+    3.2 Projects: City Classification  -- Semantic Edge Detection  -- Image Super Resolution --  Video Background Substitution.
+
+### 4 Ressources/Books:
+    4.1 Computer Vision and Action Recognition -- Computer Vision and Action Recognition -- Computer Vision: Models, Learning, and Inference.
+
+
+<<<<<<< HEAD
     
 
   <link rel="assets" href="https://github.githubassets.com/">
@@ -889,4 +909,6 @@
 
   </body>
 </html>
+=======
+>>>>>>> 286d841a5e3c54e8861f0dff2f04a8e7e85a3724
 
