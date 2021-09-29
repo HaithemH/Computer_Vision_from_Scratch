@@ -1,4 +1,4 @@
-# Learn computer vision from the scratch
+# Learn computer vision from scratch
 
 ## In this Tutos we will cover the following topics:
 
